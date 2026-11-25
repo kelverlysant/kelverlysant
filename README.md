@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kelverly-santos-496439275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://klv-labs.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-24292F?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://portfolioks-blond.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-24292F?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
   <a href="mailto:kelverlysantos09@gmail.com"><img src="https://img.shields.io/badge/E--mail-24292F?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
